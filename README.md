@@ -51,55 +51,43 @@
 
 
 ## 1. Network architecture of TSRNet
+![Network Architecture](./results/network.png)
 
 
-
-## 2. HDSRNet for x2，x3 and x4 on Set5
-
-
-
-## 3. HDSRNet for x2，x3 and x4 on Set14
+## 2. TSRNet for x2，x3 and x4 on Set5
+![Set5 Results](./results/Set5.png)
 
 
+## 3. TSRNet for x2，x3 and x4 on Set14
+![Set14 Results](./results/Set14.png)
 
-## 4. HDSRNet for x2，x3 and x4  on B100
+
+## 4. TSRNet for x2，x3 and x4  on B100
+![B100 Results](./results/B100.png)
 
 
-
-## 5. HDSRNet for x2，x3 and x4  on U100
-
+## 5. TSRNet for x2，x3 and x4  on U100
+![U100 Results](./results/U100.png)
 
 
 ## 6. Running time of different methods on hr images of size 256x256 and 512x512 for x4.
-
+![Running Time](./results/Runningtime.png)
 
 
 ## 7. Complexities of different methods for x4.
-
+![Complexity](./results/Complexity.png)
 
 
 ## 8. Visual results of Set14 for x2.
-
+![Visual Results Set14 x2](./results/Set14x2.png)
 
 
 ## 9. Visual results of B100 for x3.
+![Visual Results B100 x3](./results/B100x3.png)
 
 
-
-## 10. Visual results of B100 for x3.
-
-
-
-## 11. Visual results of U100 for x4.
-
-
-
-## 12. Visual results of U100 for x4.
-
-
-
-## 13. Visual results of U100 for x4.
-
+## 10. Visual results of U100 for x4.
+![Visual Results U100 x4](./results/U100x4.png)
 
 
 ## If you cite this paper, please use the following format:
