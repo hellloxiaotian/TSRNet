@@ -1,6 +1,6 @@
 # TSRNet
-## A Tree-guided CNN for image super-resolution
-## This paper is conducted by Chunwei Tian, Mingjian Song. 
+## A Tree-guided CNN for image super-resolution(https://ieeexplore.ieee.org/document/11010139/)
+## This paper is conducted by Chunwei Tian, Mingjian Song, Xiaopeng Fan, Xiangtao Zheng, Bob Zhang, David Zhang.
 
 
 ## Absract
@@ -91,6 +91,18 @@
 
 
 ## If you cite this paper, please use the following format:
+```
+@ARTICLE{11010139,
+  author={Tian, Chunwei and Song, Mingjian and Fan, Xiaopeng and Zheng, Xiangtao and Zhang, Bob and Zhang, David},
+  journal={IEEE Transactions on Consumer Electronics}, 
+  title={A Tree-Guided CNN for Image Super-Resolution}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Superresolution;Convolutional neural networks;Data mining;Transforms;Training;Interpolation;Electronic mail;Network architecture;Image restoration;Explosions;Deep networks;tree network;cosine transform;Adan optimizer;image super-resolution},
+  doi={10.1109/TCE.2025.3572732}}
+```
 
 
 
