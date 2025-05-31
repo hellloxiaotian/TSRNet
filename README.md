@@ -1,5 +1,5 @@
 # TSRNet
-## A Tree-guided CNN for image super-resolution(https://ieeexplore.ieee.org/document/11010139/)
+## A Tree-guided CNN for image super-resolution [(paper available here)](https://ieeexplore.ieee.org/document/11010139/)
 ## This paper is conducted by Chunwei Tian, Mingjian Song, Xiaopeng Fan, Xiangtao Zheng, Bob Zhang, David Zhang.
 
 
